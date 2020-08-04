@@ -1,3 +1,5 @@
+
+set nocompatible
 set nocompatible
 set number
 set incsearch
